@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kucing, Anjing &amp; Semut"
+        android:text="Kucing, Anjing &amp; Monyet"
         android:textStyle="bold"
         android:textColor="@color/design_default_color_primary_dark"
         android:textSize="29sp"
@@ -49,14 +49,14 @@
             android:scaleType="fitCenter"
             />
         <ImageButton
-            android:id="@+id/btn_buka_ras_beruang"
+            android:id="@+id/btn_buka_ras_Monyet"
             android:padding="16dp"
             android:layout_margin="8dp"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="150dp"
             android:background="#c6c6c6"
-            android:src="@drawable/beruang_background"
+            android:src="@drawable/monyet1"
             android:scaleType="fitCenter"
             />
     </LinearLayout>
